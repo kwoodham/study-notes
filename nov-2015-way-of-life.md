@@ -153,39 +153,39 @@ Selected:
 
 > For our confidence is this, the testimony of our conscience, that with simplicity and sincerity like that of God, and not with earthly wisdom but by the grace of God, we conducted (anestraphēmen | ἀνεστράφημεν | aor pass ind 1 pl) ourselves in the world, and all the more toward you.
 
-[1 Timothy 4:12](#tim412)
+[1 Timothy 4:12](#1-timothy-412)
 
 >  Let no one treat you contemptuously because of your youth, but be an example for the faithful in speech, in conduct (anastrophē | ἀναστροφῇ | dat sg fem), in love, in faith, in purity.
 
-[Hebrews 13:7](#heb137)
+[Hebrews 13:7](#hebrews-137)
 
 > Continue to remember your leaders, those who spoke God's message to you; reflect on the outcome of their way of life (anastrophēs | ἀναστροφῆς | gen sg fem), and imitate their faith.
 
-[Hebrews 13:18](#heb1318)
+[Hebrews 13:18](#hebrews-1318)
 
 > Continue to pray for us, for we are convinced that we have a clear conscience, desiring to (anastrephesthai | ἀναστρέφεσθαι | pres pass inf ) conduct (anastrephesthai | ἀναστρέφεσθαι | pres pass inf ) ourselves (anastrephesthai | ἀναστρέφεσθαι | pres pass inf ) honorably in every way.
 
-[James 3:13](#jms313)
+[James 3:13](#james-313)
 
 > Who is wise and understanding among you? By his exemplary conduct (anastrophēs | ἀναστροφῆς | gen sg fem) let him show his works done in the gentleness born of wisdom.
 
-[1 Peter 1:15](#pet115)
+[1 Peter 1:15](#1-peter-115)
 
 > but, just as the one who called you is holy, so also are you to be holy in all your conduct (anastrophē | ἀναστροφῇ | dat sg fem).
 
-[1 Peter 1:17](#pet117)
+[1 Peter 1:17](#1-peter-117)
 
 > And if you call upon him as Father who judges impartially according to the work of each, conduct (anastraphēte | ἀναστράφητε | aor pass imperative 2 pl) yourselves (anastraphēte | ἀναστράφητε | aor pass imperative 2 pl) with fear during the time of your exile,  
 
-[1 Peter 2:12](#pet212)
+[1 Peter 2:12](#1-peter-212)
 
 > and maintain an honorable lifestyle (anastrophēn | ἀναστροφήν | acc sg fem) among the Gentiles so that, with respect to the very things about which they slander you as evildoers, they may, by observing your good works, glorify God on the day of visitation.
 
-[1 Peter 3:16](#pet316)
+[1 Peter 3:16](#1-peter-316)
 
 > But do it with gentleness and respect, maintaining a clear conscience, so that in the very thing for which you are being slandered, those who are reviling your good conduct (anastrophēn | ἀναστροφήν | acc sg fem) in Christ will be put to shame.  
 
-[2 Peter 3:11](pet311)
+[2 Peter 3:11](#2-peter-311)
 
 > Since all these things are thus to be dissolved, what kind of people ought you to be in holy conduct (anastrophais | ἀναστροφαῖς | dat pl fem) and godliness,
 
@@ -198,8 +198,6 @@ Take each of the above and look for attributes:
 #### haplotes - Simplicity
 
 > 2 Corinthians 1:12 For our confidence is this, the testimony of our conscience, that with _simplicity_ and sincerity like that of God, and not with earthly wisdom but by the grace of God, we conducted (anestraphēmen | ἀνεστράφημεν | aor pass ind 1 pl) ourselves in the world, and all the more toward you.
-
-2 Corinthians 1:12
 
 > II Corinthians 1:12: For our boast is this: the testimony of our conscience that we behaved in the world with simplicity and godly sincerity, not by earthly wisdom but by the grace of God, and supremely so toward you.
 
@@ -279,7 +277,7 @@ _(Ingenuous means innocent, artless, simple. A near synonym is naive. Its opposi
 
 __20151106__
 
-#### Purity {#cor112-purity}
+#### Purity
 
 > 2 Corinthians 11:3 But I am afraid, however, that just as the serpent deceived Eve by his craftiness, so your minds may be led astray from the simplicity (haplotētos | ἁπλότητος | gen sg fem) and purity that is in Christ.  
 
@@ -318,7 +316,7 @@ _Definition:_ pure, chaste, modest, innocent, blameless,
 
 #### focus on purity
 
-See [Purity](#cor112-purity)
+See [Purity](#purity-1)
 
 _Gloss:_ purity, in the sense of moral purity and proper sexual conduct
 
