@@ -149,7 +149,7 @@ _Definition:_  to overturn, throw down, to turn back, return, Acts 5:22; 15:16; 
 
 Selected:
 
-[2 Corinthians 1:12]()
+[2 Corinthians 1:12](#corinthians-112)
 
 > For our confidence is this, the testimony of our conscience, that with simplicity and sincerity like that of God, and not with earthly wisdom but by the grace of God, we conducted (anestraphēmen | ἀνεστράφημεν | aor pass ind 1 pl) ourselves in the world, and all the more toward you.
 
