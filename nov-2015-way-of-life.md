@@ -302,7 +302,7 @@ _Definition:_ pure, chaste, modest, innocent, blameless,
 > 1 Peter 3:2 when they observe with respect the purity (hagnēn | ἁγνήν | acc sg fem) of your life.  
 > 1 John 3:3 And everyone who has this hope in him purifies himself, just as he is pure (hagnos | ἁγνός | nom sg masc).  
 
-### 1 Timothy 4:12 {#tim412}
+### 1 Timothy 4:12
 
 >  Let no one treat you contemptuously because of your youth, but be an example for the faithful in speech, in conduct (anastrophē | ἀναστροφῇ | dat sg fem), in love, in faith, in purity.
 
@@ -316,7 +316,7 @@ _Definition:_ pure, chaste, modest, innocent, blameless,
 
 #### focus on purity
 
-See [Purity](#purity-1)
+See [Purity](#purity)
 
 _Gloss:_ purity, in the sense of moral purity and proper sexual conduct
 
@@ -328,7 +328,7 @@ _Definition:_ purity, chastity, 1 Tim. 4:12; 5:2*
 
 _20151111_
 
-### Hebrews 13:7 {#heb137}
+### Hebrews 13:7
 
 > Continue to remember your leaders, those who spoke God's message to you; reflect on the outcome of their way of life (anastrophēs | ἀναστροφῆς | gen sg fem), and imitate their faith.
 
@@ -365,7 +365,7 @@ _Definition:_  to view, behold attentively, contemplate, Acts 17:23; Heb. 13:7*
 
 Here - specifically imitate faith - look at what is produced in the lives of those who (bring/brought) the gospel to me, see the blessings of God in their lives because of their faithfulness, and resolve to imitate that faithfulness.
 
-### James 3:13 {#jms313}
+### James 3:13
 
 > Who is wise and understanding among you? By his exemplary conduct (anastrophēs | ἀναστροφῆς | gen sg fem) let him show his works done in the gentleness born of wisdom.
 
@@ -415,22 +415,22 @@ Morphology: N-DF-S Strong's: 4240 Transliterated: prautēti Root: πραΰτη�
 
 Contrasted with jealousy and selfishness in James - gentleness means that I am humble and not self-serving in my interactions.  My "conduct" shows a non-reactionary approach to confrontation: I am not out to prove my point and be vindicated, but out to gently nurture others into the image og Christ.
 
-### 1 Peter 1:15 {#pet115}
+### 1 Peter 1:15
 
 > but, just as the one who called you is holy, so also are you to be holy in all your conduct (anastrophē | ἀναστροφῇ | dat sg fem).
 
-### 1 Peter 1:17 {#pet117}
+### 1 Peter 1:17
 
 > And if you call upon him as Father who judges impartially according to the work of each, conduct (anastraphēte | ἀναστράφητε | aor pass imperative 2 pl) yourselves (anastraphēte | ἀναστράφητε | aor pass imperative 2 pl) with fear during the time of your exile,  
 
-### 1 Peter 2:12 {#pet212}
+### 1 Peter 2:12
 
 > and maintain an honorable lifestyle (anastrophēn | ἀναστροφήν | acc sg fem) among the Gentiles so that, with respect to the very things about which they slander you as evildoers, they may, by observing your good works, glorify God on the day of visitation.
 
-### 1 Peter 3:16 {#pet316}
+### 1 Peter 3:16
 
 > But do it with gentleness and respect, maintaining a clear conscience, so that in the very thing for which you are being slandered, those who are reviling your good conduct (anastrophēn | ἀναστροφήν | acc sg fem) in Christ will be put to shame.  
 
-### 2 Peter 3:11 {pet311}
+### 2 Peter 3:11
 
 > Since all these things are thus to be dissolved, what kind of people ought you to be in holy conduct (anastrophais | ἀναστροφαῖς | dat pl fem) and godliness,
