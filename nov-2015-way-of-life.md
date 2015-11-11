@@ -387,7 +387,7 @@ First impression: someone who is "wise and understanding" manifests (through his
 - impartial, and
 - not hypocritical.
 
-### Gentleness produced by wisdom
+#### Gentleness produced by wisdom
 
 Morphology: N-DF-S Strong's: 4240 Transliterated: prautēti Root: πραΰτης 1) mildness of disposition, gentleness of spirit, meekness
 
@@ -418,6 +418,32 @@ Contrasted with jealousy and selfishness in James - gentleness means that I am h
 ### 1 Peter 1:15
 
 > but, just as the one who called you is holy, so also are you to be holy in all your conduct (anastrophē | ἀναστροφῇ | dat sg fem).
+
+#### Holiness
+
+> 15 but, like the Holy One who called you, become holy yourselves in all of your conduct, 16 for it is written, “You shall be holy, because I am holy.”
+
+Vs 16 - quote from
+
+> Lev 19:2 “Speak to the whole congregation of the Israelites and tell them, ‘You must be holy because I, the Lord your God, am holy
+
+Morphology: A--NM-P Strong's: 40 Transliterated: hagioi Root: ἅγιος 1) most holy thing, a saint Synonym : See Definition 5878
+
+1 Peter 1:15 Adj-AMS  
+GRK: καλέσαντα ὑμᾶς ἅγιον καὶ αὐτοὶ  
+INT: having called you [is] holy also yourselves
+
+1 Peter 1:15 Adj-NMP  
+GRK: καὶ αὐτοὶ ἅγιοι ἐν πάσῃ  
+INT: also yourselves holy in all
+
+__Be holy in all of your conduct__ - this is a huge call for me.  I cannot partition my time into "ministry" and "secular" - all of what I do has to be done in a monner that reflects holiness.  
+
+Reminds me once again of Rom 12:1-2:
+
+> Therefore I exhort you, brothers and sisters, by the mercies of God, to present your bodies as a sacrifice – alive, holy, and pleasing to God – which is your reasonable service. 2 Do not be conformed to this present world, but be transformed by the renewing of your mind, so that you may test and approve what is the will of God – what is good and well-pleasing and perfect.
+
+... alive __holy__ and pleasing to God.
 
 ### 1 Peter 1:17
 
