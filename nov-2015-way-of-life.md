@@ -193,7 +193,7 @@ __20151104__
 
 Take each of the above and look for attributes:
 
-### 2 Corinthians 1:12 {#cor112}
+### 2 Corinthians 1:12 [#cor112]
 
 #### haplotes - Simplicity
 
