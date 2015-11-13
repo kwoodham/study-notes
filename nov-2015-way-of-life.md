@@ -517,7 +517,7 @@ There are passages in this list that set "fear" into a context - It is clear tha
 #### honorable
 Morphology: A--AF-S Strong's: 2570 Transliterated: kalēn Root: καλός
 
-
+```
 1. beautiful, handsome, excellent, eminent, choice, surpassing, precious, useful, suitable, commendable, admirable
   a. beautiful to look at, shapely, magnificent
   b. good, excellent in its nature and characteristics, and therefore well adapted to its ends
@@ -529,7 +529,7 @@ Morphology: A--AF-S Strong's: 2570 Transliterated: kalēn Root: καλός
     1. morally good, noble
   d. honourable, conferring honour
   e. affecting the mind agreeably, comforting and confirming Synonym :
-
+```
 See Definition 5893
 
 ### 1 Peter 3:16
