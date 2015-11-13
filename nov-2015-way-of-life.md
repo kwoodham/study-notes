@@ -210,13 +210,13 @@ Take each of the above and look for attributes:
 
 NET:
 
-> 12 For our reason for confidence is this: the testimony of our conscience, that with pure motives(24) and sincerity which are from .God(25) -- not by human wisdom but by the grace of God -- we conducted ourselves in the world, and all the more toward you.
+> 12 For our reason for confidence is this: the testimony of our conscience, that with pure motives(**24**) and sincerity which are from .God(**25**) -- not by human wisdom but by the grace of God -- we conducted ourselves in the world, and all the more toward you.
 
-> (24) Two viable variants exist at this place in the text: ἁγιότητι (hagiotēti, "holiness") vs. ἁπλότητι (haplotēti, "pure motives"). A confusion of letters could well have produced the variant (TCGNT 507): In uncial script the words would have been written agiothti and aplothti. This, however, does not explain which reading created the other. Overall ἁπλότητι, though largely a Western-Byzantine reading (א D F G M lat sy), is better suited to the context; it is also a Pauline word while ἁγιότης (hagiotēs) is not. It also best explains the rise of the other variants, πραότητι (praotēti, "gentleness") and {σπλάγχνοις} (splanchnois, "compassion"). On the other hand, the external evidence in favor of ἁγιότητι is extremely strong (Pא* A B C K P Ψ 0121 0243 33 81 1739 1881 al co). This diversity of mss provides excellent evidence for authenticity, but because of the internal evidence listed above, ἁπλότητι is to be preferred, albeit only slightly.
+> (**24**) Two viable variants exist at this place in the text: ἁγιότητι (hagiotēti, "holiness") vs. ἁπλότητι (haplotēti, "pure motives"). A confusion of letters could well have produced the variant (TCGNT 507): In uncial script the words would have been written agiothti and aplothti. This, however, does not explain which reading created the other. Overall ἁπλότητι, though largely a Western-Byzantine reading (א D F G M lat sy), is better suited to the context; it is also a Pauline word while ἁγιότης (hagiotēs) is not. It also best explains the rise of the other variants, πραότητι (praotēti, "gentleness") and {σπλάγχνοις} (splanchnois, "compassion"). On the other hand, the external evidence in favor of ἁγιότητι is extremely strong (Pא* A B C K P Ψ 0121 0243 33 81 1739 1881 al co). This diversity of mss provides excellent evidence for authenticity, but because of the internal evidence listed above, ἁπλότητι is to be preferred, albeit only slightly.
 
 > Or "sincerity." The two terms translated "pure motives" (ἁπλότης, haplotēs) and "sincerity" (εἰλικρίνεια, eilikrineia) are close synonyms.
 
-> (25) tn Grk "pure motives and sincerity of God."
+> (**25**) tn Grk "pure motives and sincerity of God."
 
 Utley
 
@@ -230,7 +230,7 @@ NIV
 
 GK 572
 
-Morphology: N-DF-S Strong's: 572 Transliterated: haplotēti Root: ἁπλότης 1) singleness, simplicity, sincerity, mental honesty 1a) the virtue of one who is free from pretence and hypocrisy 2) not self seeking, openness of heart manifesting itself by generousity
+Morphology: N-DF-S Strong's: 572 Transliterated: haplotēti Root: ἁπλότης 1) singleness, simplicity, sincerity, mental honesty 1a) the virtue of one who is free from pretense and hypocrisy 2) not self seeking, openness of heart manifesting itself by generosity
 
 **Gloss:** Formally the quality of singleness, translated generosity, the state of giving things in a manner that shows liberality; sincerity, the moral quality of honesty expressing singleness of purpose or motivation
 
@@ -261,7 +261,7 @@ From [http://www.biblestudytools.com/lexicons/greek/nas/haplotes.html](http://ww
 
 Same passage
 
-#### eilikrineia - Sincerity
+#### EILIKRINEIA - Sincerity
 > 2 Corinthians 1:12 For our confidence is this, the testimony of our conscience, that with simplicity and _sincerity_ like that of God, and not with earthly wisdom but by the grace of God, we conducted (anestraphēmen | ἀνεστράφημεν | aor pass ind 1 pl) ourselves in the world, and all the more toward you.
 
 Morphology: N-DF-S Strong's: 1505 Transliterated: eilikrineia Root: εἰλικρίνεια 1) purity, sincerity, ingenuousness
@@ -312,14 +312,14 @@ _Definition:_ pure, chaste, modest, innocent, blameless,
 ### 1 Timothy 4:12
 >  Let no one treat you contemptuously because of your youth, but be an example for the faithful in speech, in conduct (anastrophē | ἀναστροφῇ | dat sg fem), in love, in faith, in purity.
 
-#### attributes
+#### Attributes
 - speech - logos
 - conduct - anastrophe
 - love - agape
 - faith - pistei
 - purity - hagneia
 
-#### focus on purity
+#### Focus on purity
 See [Purity](#purity)
 
 _Gloss:_ purity, in the sense of moral purity and proper sexual conduct
@@ -427,7 +427,7 @@ Morphology: A--NM-P Strong's: 40 Transliterated: hagioi Root: ἅγιος 1) mos
 
 1 Peter 1:15 Adj-NMP<br>GRK: καὶ αὐτοὶ ἅγιοι ἐν πάσῃ<br>INT: also yourselves holy in all
 
-**Be holy in all of your conduct** - this is a huge call for me.  I cannot partition my time into "ministry" and "secular" - all of what I do has to be done in a monner that reflects holiness.  
+**Be holy in all of your conduct** - this is a huge call for me.  I cannot partition my time into "ministry" and "secular" - all of what I do has to be done in a manner that reflects holiness.  
 
 Reminds me once again of Rom 12:1-2:
 
@@ -435,11 +435,102 @@ Reminds me once again of Rom 12:1-2:
 
 ... alive **holy** and pleasing to God.
 
+_20151112_
+
 ### 1 Peter 1:17
 > And if you call upon him as Father who judges impartially according to the work of each, conduct (anastraphēte | ἀναστράφητε | aor pass imperative 2 pl) yourselves (anastraphēte | ἀναστράφητε | aor pass imperative 2 pl) with fear during the time of your exile,  
 
+#### Context
+> 14 Like obedient children, do not comply with the evil urges you used to follow in your ignorance, 15 but, like the Holy One who called you, become holy yourselves in all of your conduct, 16 for it is written, "You shall be holy, because I am holy." 17 And if you address as Father the one who impartially judges according to each one's work, live out the time of your temporary residence here(**35**) in reverence.
+
+(**35**) tn Grk "the time of your sojourn," picturing the Christian's life in this world as a temporary stay in a foreign country (cf. 1:1).
+
+>  1 From Peter, an apostle of Jesus Christ, to those temporarily residing abroad (in Pontus, Galatia, Cappadocia, the province of Asia, and Bithynia)...
+
+#### fear
+Morphology: N-DM-S Strong's: 5401 Transliterated: phobō Root: φόβος 1) fear, dread, terror 1a) that which strikes terror 2) reverence for one's husband
+
+Frequency in New Testament: 47
+
+**Gloss:** fear, terror; respect, reverence; see also {5399}
+
+**Definition:** fear, terror, affright, Mt. 14:26; Lk. 1:12; astonishment, amazement, Mt. 28:8; Mk. 4:41; trembling concern, 1 Cor. 2:3; 2 Cor. 7:15; meton. a terror, an object or cause of terror, Rom. 13:3; reverential fear, awe, Acts 9:31; Rom. 3:18; respect, deference, Rom. 13:7; 1 Pet. 2:18
+
+Don't include all 47 - just (mostly) those referenced in the definition:
+
+> Matthew 14:26 When the disciples saw him walking on the sea, they were frightened and said, "It is a ghost!" And they cried out in fear (phobou | φόβου | gen sg masc).
+
+> Matthew 28:8 So they left the tomb at once, with fear (phobou | φόβου | gen sg masc) and great joy, and ran to break the news to his disciples.
+
+> Mark 4:41 And they were filled with great fear (phobon | φόβον | acc sg masc) and said to one another, "Who then is this, is that even the wind and the sea obey him?"
+
+> Luke 1:12 Zechariah was troubled when he saw him and fear (phobos | φόβος | nom sg masc) fell upon him.
+
+> Acts 9:31 So the church throughout all Judea and Galilee and Samaria had peace; being built up, and walking in the fear (phobō | φόβῳ | dat sg masc) of the Lord and in the comfort of the Holy Spirit, it increased in number.
+
+> Romans 3:18 There is no fear (phobos | φόβος | nom sg masc) of God before their eyes."
+
+> Romans 8:15 For you did not receive the spirit of slavery leading back to fear (phobon | φόβον | acc sg masc), but you received the Spirit of adoption. By him we cry out, "Abba! Father!"
+
+> Romans 13:3 For rulers are not a source of fear (phobos | φόβος | nom sg masc) for those who do good, but for those who do wrong. Would you have no fear of the one in authority? Then do what is right and you will receive his approval
+
+> Romans 13:7 Pay everyone what is owed to them: taxes to whom taxes are due; revenue to whom revenue is due; respect (phobon | φόβον | acc sg masc) to whom respect (phobon | φόβον | acc sg masc) is due; honor to whom honor is due.
+
+> 1 Corinthians 2:3 So I came to you in weakness and fear (phobō | φόβῳ | dat sg masc), and with much trembling.
+
+> 2 Corinthians 5:11 Therefore since we know the fear (phobon | φόβον | acc sg masc) of the Lord, we attempt to persuade others; we stand open to God, and, I trust, also to your conscience.
+
+> 2 Corinthians 7:1 Since then we have these promises, dear friends, let us cleanse ourselves from every defilement of flesh and spirit, perfecting holiness in the fear (phobō | φόβῳ | dat sg masc) of God.
+
+> 2 Corinthians 7:11 For see what eagerness this very thing -- this sadness as God intended -- has produced in you; what defense of yourselves, what indignation, what alarm (phobon | φόβον | acc sg masc), what longing, what deep concern, what punishment! In everything you have proved yourselves to be innocent in this matter.
+
+> Ephesians 5:21 Be subject to one another out of reverence (phobō | φόβῳ | dat sg masc) for Christ.
+
+> Ephesians 6:5 Slaves, obey your earthly masters with fear (phobou | φόβου | gen sg masc) and trembling, with sincerity of heart, as though obeying Christ,
+
+> Philippians 2:12 So then, my dear friends, just as you have always obeyed, not only in my presence but even more now in my absence, continue to work out your salvation with fear (phobou | φόβου | gen sg masc) and trembling,
+
+> 1 Peter 2:18 Household servants should be subject to their masters with all respect (phobō | φόβῳ | dat sg masc), not only to the good and kind but also to the unjust.
+
+> 1 Peter 3:16 But do it with gentleness and respect (phobou | φόβου | gen sg masc), maintaining a clear conscience, so that in the very thing for which you are being slandered, those who are reviling your good conduct in Christ will be put to shame.
+
+> 1 John 4:18 There is no fear (phobos | φόβος | nom sg masc) in love, but perfect love drives out fear (phobon | φόβον | acc sg masc) because fear (phobos | φόβος | nom sg masc) has to do with punishment. So the one who fears has not been perfected in love.
+
+> Jude 1:23 save others by snatching them out of the fire; and have mercy on others with fear (phobō | φόβῳ | dat sg masc), hating even the garment stained by the flesh.
+
+--------------------------------------------------------------------------------
+
+There are passages in this list that set "fear" into a context - It is clear that we are not to live life in a state of terror - but of sobriety and deliberate, careful conduct.  But fear connotes a threat as well - and while there is alway a concern regarding the power of Satan to erode our faith and pull us away from God, there needs to be a sense of security in His presence: a sheep resting in the presence of the shepherd is at peace.
+
+> 2 Corinthians 7:1 Since then we have these promises, dear friends, let us cleanse ourselves from every defilement of flesh and spirit, perfecting holiness in the fear (phobō | φόβῳ | dat sg masc) of God.
+
+> Philippians 2:12 So then, my dear friends, just as you have always obeyed, not only in my presence but even more now in my absence, continue to work out your salvation with fear (phobou | φόβου | gen sg masc) and trembling,
+
+> 1 John 4:18 There is no fear (phobos | φόβος | nom sg masc) in love, but perfect love drives out fear (phobon | φόβον | acc sg masc) because fear (phobos | φόβος | nom sg masc) has to do with punishment. So the one who fears has not been perfected in love.
+
 ### 1 Peter 2:12
 > and maintain an honorable lifestyle (anastrophēn | ἀναστροφήν | acc sg fem) among the Gentiles so that, with respect to the very things about which they slander you as evildoers, they may, by observing your good works, glorify God on the day of visitation.
+
+#### Context
+>  11 Dear friends, I urge you as foreigners and exiles to keep away from fleshly desires that do battle against the soul, 12 and maintain good conduct among the non-Christians, so that though they now malign you as wrongdoers, they may see your good deeds and glorify God when he appears. (NET)
+
+#### honorable
+Morphology: A--AF-S Strong's: 2570 Transliterated: kalēn Root: καλός
+
+
+1. beautiful, handsome, excellent, eminent, choice, surpassing, precious, useful, suitable, commendable, admirable
+  a. beautiful to look at, shapely, magnificent
+  b. good, excellent in its nature and characteristics, and therefore well adapted to its ends
+    1. genuine, approved
+    2. precious
+    3. joined to names of men designated by their office, competent, able, such as one ought to be
+    4. praiseworthy, noble
+  c. beautiful by reason of purity of heart and life, and hence praiseworthy
+    1. morally good, noble
+  d. honourable, conferring honour
+  e. affecting the mind agreeably, comforting and confirming Synonym :
+
+See Definition 5893
 
 ### 1 Peter 3:16
 > But do it with gentleness and respect, maintaining a clear conscience, so that in the very thing for which you are being slandered, those who are reviling your good conduct (anastrophēn | ἀναστροφήν | acc sg fem) in Christ will be put to shame.  
